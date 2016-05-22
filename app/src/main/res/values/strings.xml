@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">daniel-pset5</string>
+    <string name="edit_text_hint">Enter your search request here.</string>
+</resources>
